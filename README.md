@@ -2,7 +2,7 @@
 
 ![OpenWrt Logo](https://openwrt.org/_media/logo.png)
 
-## DNS-over-HTTPS-OpenWrt/ImmortalWRT
+## DNS-over-HTTPS Setup For OpenWrt/ImmortalWRT
 
 Welcome to the DNS over HTTPS (DoH) setup guide for your OpenWrt/ImmortalWRT router firmware! This comprehensive guide will walk you through the step-by-step process of configuring DNS over HTTPS on your router, enhancing your privacy and security while browsing the web.
 
